@@ -1,0 +1,105 @@
+@font-face{
+    font-family: jc;
+    src: url(../fonts/great-vibes/shadded-south/Shadded\ South\ Personal\ Use.ttf);
+}
+#south{
+    font-family: jc;
+    font-size: 100px;
+   /* border:solid red 5px ; */
+    padding: px;
+    border-radius: 100%;
+    /* border-left-style:dotted;
+    border-right-style:dotted; */
+    /* border-style: dotted;
+    margin-right: auto; */
+   
+}
+h2{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+    margin-left: 50px;
+    /* margin-bottom: 50px; */
+    
+}
+#north{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px;
+    /* font-weight:bolder; */
+    
+}
+
+#east{
+    /* margin: 50px 50px; */
+    /* padding: 50px; */
+    width: 100%;
+}
+#sot{
+    font-family: sans-serif;
+    font-size: 50px;
+    font-weight: 900;
+}
+#dot{
+    background-color: black;
+    width: 100%;
+    color: white;
+}
+#at{
+    font-family: jc;
+    margin-left: 200px;
+    font-size: 50px;
+}
+#was{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    margin-left: 200px;
+    margin-bottom: 300px;
+}
+#we{
+    margin-right: 300px;
+}
+#go{
+    font-family: sans-serif;
+    margin-bottom: 20px;
+    font-size: 20px;
+    font-weight: 200;
+}
+#them{
+    background-color: black;
+    color: white;
+    width: 100%;
+}
+#que{
+    font-family: jc;
+    font-size: 40px;
+    font-weight: 900;
+    margin-left: 300px;
+}
+#run{
+    font-family: sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+}
+#you{
+     margin-bottom: 20px;
+     font-size: 20px; 
+     margin-right: 70px;
+}
+/* #john{
+    margin-left: 100px;
+} */
+#come{
+    width: 50px;
+    height: 50px;
+    border: 2px;
+    /* margin-left: auto;
+    margin-right: auto; */
+    border-color: red;
+    /* border-style:dotted; */
+    border-radius: 100px;
+    border-left-style: dotted;
+    border-right-style:dotted;
+    color: red;
+    text-align: center;
+    margin-right: 200px;
+    margin-left: 300px;
+}
